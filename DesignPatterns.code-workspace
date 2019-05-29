@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "Observer"
+		},
+		{
+			"path": "Mediator"
 		}
 	],
 	"settings": {}
